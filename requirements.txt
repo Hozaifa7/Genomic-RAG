@@ -1,0 +1,15 @@
+langchain
+langchain-chroma
+langchain-huggingface
+chromadb
+
+transformers
+torch
+sentence-transformers
+
+biopython
+requests
+tqdm
+dotenv 
+
+groq
