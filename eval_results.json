@@ -1,0 +1,12 @@
+[
+  {
+    "query": "What variants in RARS1 are associated with hypomyelination?",
+    "type": "expected_valid",
+    "result": "{\n \"variants\":[\n  {\n   \"variant\":\"c.2T>C (p.Met1Thr)\",\n   \"disease\":\"RARS1-related hypomyelinating leukodystrophy\",\n   \"phenotype\":\"severe clinical manifestations\",\n   \"pmid\":\"38618971\"\n  },\n  {\n   \"variant\":\"c.5A>G (p.Asp2Gly)\",\n   \"disease\":\"RARS1-related hypomyelinating leukodystrophy\",\n   \"phenotype\":\"hypomyelination\",\n   \"pmid\":\"37186453\"\n  },\n  {\n   \"variant\":\"c.5A>T (p.Asp2Val)\",\n   \"disease\":\"Hypomyelinating leukodystrophy\",\n   \"phenotype\":\"DEE and cortical malformations\",\n   \"pmid\":\"37186453\"\n  },\n  {\n   \"variant\":\"c.1382G>A (p.Arg461His)\",\n   \"disease\":\"Hypomyelinating leukodystrophy\",\n   \"phenotype\":\"DEE and cortical malformations\",\n   \"pmid\":\"37186453\"\n  },\n  {\n   \"variant\":\"c.1535G>A (p.Arg512Gln)\",\n   \"disease\":\"Hypomyelinating leukodystrophy\",\n   \"phenotype\":\"DEE and cortical malformations\",\n   \"pmid\":\"37186453\"\n  }\n ]\n}"
+  },
+  {
+    "query": "Is RARS1 associated with Alzheimer's disease?",
+    "type": "trick_question",
+    "result": "{\n \"variants\":[\n  {\n   \"variant\":\"Not reported\",\n   \"disease\":\"Alzheimer's disease\",\n   \"phenotype\":\"Not reported\",\n   \"pmid\":\"Not reported\"\n  }\n ]\n}"
+  }
+]
